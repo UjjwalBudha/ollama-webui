@@ -662,7 +662,7 @@
 					<div class="flex flex-col h-full justify-between space-y-3 text-sm mb-6">
 						<div class=" space-y-3">
 							<div>
-								<div class=" mb-2.5 text-sm font-medium">Ollama Web UI Version</div>
+								<div class=" mb-2.5 text-sm font-medium">ADEXLLM Version</div>
 								<div class="flex w-full">
 									<div class="flex-1 text-xs text-gray-700 dark:text-gray-200">
 										{WEB_UI_VERSION}
@@ -673,7 +673,7 @@
 							<hr class=" dark:border-gray-700" />
 
 							<div>
-								<div class=" mb-2.5 text-sm font-medium">Ollama Version</div>
+								<div class=" mb-2.5 text-sm font-medium">ADEXLLM Version</div>
 								<div class="flex w-full">
 									<div class="flex-1 text-xs text-gray-700 dark:text-gray-200">
 										{$info?.ollama?.version ?? "N/A"}

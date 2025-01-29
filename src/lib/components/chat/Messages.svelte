@@ -379,7 +379,7 @@
 							{#if message.role === "user"}
 								You
 							{:else}
-								Ollama <span class=" text-gray-500 text-sm font-medium"
+								ADEXLLM <span class=" text-gray-500 text-sm font-medium"
 									>{message.model ? ` ${message.model}` : ""}</span
 								>
 							{/if}

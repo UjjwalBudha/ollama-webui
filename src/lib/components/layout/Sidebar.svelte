@@ -13,7 +13,7 @@
 	let importFileInputElement;
 	let importFiles;
 
-	let title: string = "Ollama Web UI";
+	let title: string = "AdexLLM Web UI";
 	let search = "";
 
 	let chatDeleteId = null;
