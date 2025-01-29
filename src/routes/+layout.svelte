@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Ollama</title>
+	<title>ADEXLLM</title>
 </svelte:head>
 
 <Toaster />

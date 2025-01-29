@@ -366,7 +366,7 @@
 							/>
 						{:else}
 							<img
-								src="/favicon.png"
+								src="/ollama.png"
 								class=" max-w-[28px] object-cover rounded-full"
 								alt="Ollama profile"
 								draggable="false"
